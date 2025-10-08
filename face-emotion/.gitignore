@@ -1,0 +1,12 @@
+﻿# Python
+venv/
+__pycache__/
+*.pyc
+
+# Data / weights / logs
+weights/
+data/
+logs/
+
+# VS Code
+.vscode/

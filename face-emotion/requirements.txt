@@ -1,0 +1,13 @@
+﻿torch
+torchvision
+albumentations
+opencv-python
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
+fastapi
+uvicorn[standard]
+Pillow
+pytest
